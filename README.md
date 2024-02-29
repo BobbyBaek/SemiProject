@@ -1,6 +1,4 @@
-![image](https://github.com/BobbyBaek/SemiProject/assets/150643104/38f414c9-adb2-4c9f-9025-aa8415fc29a9)
-
-# 🏨Hotel Haru🏨
+# <img src="https://github.com/BobbyBaek/SemiProject/assets/150643104/38f414c9-adb2-4c9f-9025-aa8415fc29a9" align=left width=49>Hotel Haru
 
 ### Hotel Haru는 좋은 질의 서비스를 제공하는 호텔 예약 사이트입니다.
 
@@ -10,7 +8,8 @@
 > 마이페이지, 로그인, 리뷰 기능, Main Page, 내 예약 및 내 문의사항 확인, 패스워드 변경
 
 - :octocat: [백경찬](https://github.com/jzqioipst)
-> 호텔 개요 및 소개 페이지, Main Page 구성 및 전반적 프론트 작업, 호텔 로고 제작, 카카오Map API, 카카오 챗봇 기
+> 호텔 개요 및 소개 페이지, Main Page 구성 및 전반적 프론트 작업, 호텔 로고 제작, 카카오Map API,
+> 카카오 챗봇 기능
 
 - :octocat: [이희수](https://github.com/jsh10151)
 > 객실 소개, 예약 기능, 결제 기능, 핸드폰 인증, 마일리지 기능, E-shop 및 장바구니
@@ -37,7 +36,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"> 
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Mybatis&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">   
 </div>
 
 ## ⚙️&nbsp;기술 스택
@@ -61,6 +60,8 @@
 <img width="500" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
 <img width="500"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
+
+
 
 
 
