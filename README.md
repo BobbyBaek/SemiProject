@@ -61,7 +61,10 @@
 <img width="500"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
 
+## Hotel Haru 시연
 
+### 1. 메인페이지
+<img width="500" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
 
 
 
