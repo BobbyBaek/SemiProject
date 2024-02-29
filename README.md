@@ -54,8 +54,11 @@
 </div>
 
 ## 🧩 ERD Cloud
+<img src="https://github.com/sangin525/SemiProject/assets/150643104/3afd4fed-ca28-4ab4-84d0-378dd7347785"></img>
 
-
+## 📄 유스케이스
+<img src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
+<img src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 
 
 
