@@ -57,17 +57,18 @@
 
 ## 📄 유스케이스
 <div style="display:flex;">
-<img width="500" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
-<img width="500"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
+<img width="450" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
+<img width="450"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
 
 ## Hotel Haru 시연
 
-### 1. 메인페이지
-<img width="500" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
+> 1. 메인페이지
+<br>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/19926bf3-517c-4da1-87e1-27f721c64b72"></img>
 
-
-
+> 2.
 
 
 
