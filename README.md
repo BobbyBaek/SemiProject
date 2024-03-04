@@ -65,8 +65,8 @@
 
 > 1. 메인페이지
 
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/19926bf3-517c-4da1-87e1-27f721c64b72"></img>
+<img width="380" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
+<img width="380" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/19926bf3-517c-4da1-87e1-27f721c64b72"></img>
 <br>
 <br>
 
