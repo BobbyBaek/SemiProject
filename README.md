@@ -57,8 +57,8 @@
 
 ## 📄 유스케이스
 <div style="display:flex;">
-<img width="450" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
-<img width="450"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
+<img width="430" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
+<img width="430"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
 
 ## Hotel Haru 시연
@@ -67,8 +67,22 @@
 <br>
 <img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
 <img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/19926bf3-517c-4da1-87e1-27f721c64b72"></img>
+<br>
 
-> 2.
+> 2. 호텔개요
+<br>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/71296313-049f-4b98-a67c-eab1fb7bfb31"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/6996cb32-b440-4a03-9a7b-4e084fa43a50"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/7df47e55-2256-41f8-a4af-bb03badd2eab"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/7df47e55-2256-41f8-a4af-bb03badd2eab"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/16312ebc-3c47-483f-9de8-46ea7083c7df"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/fde3b5ce-04bb-4a6e-80df-1c881a5cfbad"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/79dd33fc-db54-4bd6-8056-2314bf4bd123"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/fa28740a-34d5-479c-9f6d-ecb1b0d97348"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/b9937bd4-4a87-42fb-9b1d-a3f1d4c6e813"></img>
+<br>
+
+
 
 
 
