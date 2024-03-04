@@ -61,27 +61,37 @@
 <img width="430"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
 
-## Hotel Haru 시연
+## Hotel Haru 내가 만든 페이지 시연
 
 > 1. 메인페이지
-<br>
+
 <img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/943ec511-dec4-46f0-915e-eb048a4e2a97"></img>
 <img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/19926bf3-517c-4da1-87e1-27f721c64b72"></img>
+<br>
 <br>
 
 > 2. 호텔개요
 <br>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/71296313-049f-4b98-a67c-eab1fb7bfb31"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/6996cb32-b440-4a03-9a7b-4e084fa43a50"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/7df47e55-2256-41f8-a4af-bb03badd2eab"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/7df47e55-2256-41f8-a4af-bb03badd2eab"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/16312ebc-3c47-483f-9de8-46ea7083c7df"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/fde3b5ce-04bb-4a6e-80df-1c881a5cfbad"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/79dd33fc-db54-4bd6-8056-2314bf4bd123"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/fa28740a-34d5-479c-9f6d-ecb1b0d97348"></img>
-<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/b9937bd4-4a87-42fb-9b1d-a3f1d4c6e813"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/2edefd2e-af14-4daa-acf3-6540ac7d97c0"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/5c5a1da7-51dc-4e5b-a987-bf278effb19b"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/1792ad1f-d397-46c1-83e4-1643febe5cce"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/a5bdba4e-709b-4d13-80fb-98323aceda75"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/ee465eb9-182f-4710-bc71-fde86b4b3311"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/5edee9a4-fe50-41d5-a332-d208a411511a"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/960e1f62-1bd2-44cb-bf2d-ba5ea6024ceb"></img>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/be8f8817-ce5b-4535-9622-d01540f047b4"></img>
+<br>
 <br>
 
+> 3. 카카오 봇 채팅
+<br>
+<img width="400" src="https://github.com/BobbyBaek/SemiProject/assets/150643104/3c000726-e34a-41ba-8ceb-0dfa65e2bfa0"></img>
+<br>
+
+
+## 느낀점 및 후기
+<br>
+이번 프로젝트를 통해서 저의 부족한 부분들을 채우기도 하고 또 더 공부해서 채워야 할 부분들을 명확히 아는 시간이었습니다. 사이트를 한 부분씩 채워 넣으면서 프론트의 흥미를 느꼈고 채워져가는 느낌이 참 좋았습니다. 또한 팀 프로젝트인 만큼 어떻게 합을 맞추고 서로를 향한 배려와 존중이 중요하다는 것을 깨달았습니다.  혼자 하는 것이 아닌 함께하는 것이 중요한거 같습니다.
 
 
 
