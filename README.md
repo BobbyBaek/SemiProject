@@ -57,8 +57,8 @@
 
 ## 📄 유스케이스
 <div style="display:flex;">
-<img width="430" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
-<img width="430"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
+<img width="400" src="https://github.com/sangin525/SemiProject/assets/150643104/96d3d0b4-ddca-4dd7-b271-3782f58b9497"></img>
+<img width="400"src="https://github.com/sangin525/SemiProject/assets/150643104/2f7017b2-93d8-48b4-bed6-154450f44749"></img>
 </div>
 
 ## Hotel Haru 내가 만든 페이지 시연
